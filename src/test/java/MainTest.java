@@ -9,7 +9,7 @@ public class MainTest {
 
     @Test
     public void testIfTrue() {
-        Assertions.assertTrue(true, "This is true!");
+        Assertions.assertTrue(true, "This is TEST!");
     }
 
     @Test
