@@ -16,5 +16,4 @@ public class MainTest {
     public void testIfFalse() {
         Assertions.assertTrue(false, "This is FAAAAAALSE!!!!!!");
     }
-
 }
