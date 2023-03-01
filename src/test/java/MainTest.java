@@ -9,12 +9,12 @@ public class MainTest {
 
     @Test
     public void testIfTrue() {
-        Assertions.assertTrue(true, "This is TEST, MF!!!!");
+        Assertions.assertTrue(true, "This is true!");
     }
 
     @Test
     public void testIfFalse() {
-        Assertions.assertTrue(false, "This is FAAAAAAAAALSE!!!!!!");
+        Assertions.assertTrue(false, "This is false!");
     }
 
 }
